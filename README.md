@@ -32,4 +32,4 @@ The dataset contains population statistics for different countries and years.
 3. Run the Python script or Jupyter Notebook.
 
 ## Author
-Sk Mohiddin
+Shaik Mohiddin
